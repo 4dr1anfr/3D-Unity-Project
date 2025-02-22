@@ -480,7 +480,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 9.519637, y: 0.63915, z: 9.029301}
+  m_LocalScale: {x: 12.355536, y: 0.63915, z: 10.662701}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -617,7 +617,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 1
-  mouseSensitivity: 100
+  mouseSensitivity: 500
   cameraTransform: {fileID: 330585546}
 --- !u!54 &710578570
 Rigidbody:
