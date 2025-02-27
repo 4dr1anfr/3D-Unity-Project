@@ -1,7 +1,6 @@
-# 3D-Project-Unity
+# Unity Game
 
-feat: ChatGPT 
+Mein neues Unity Game
 
-Unity 3D Project
-
-
+Ist gerade noch in bearbeitung 
+viel von dem code ist von ChatGPT doch wurde opimiert 
